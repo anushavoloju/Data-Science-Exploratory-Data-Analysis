@@ -1,5 +1,5 @@
 
-Instructions to run the code:
+### Instructions to run the code:
 
 
 1. Download Project1.zip file.
@@ -9,10 +9,10 @@ Instructions to run the code:
 5. Install all required libraries and run the tasks from 1 to 10 to see the outputs.
 
 
-Project Team
+#### Project Team
 
-Anusha Voloju
-Maleeha Ahmed
-Priyan Suresh Kumar
+#### Anusha Voloju
+#### Maleeha Ahmed
+#### Priyan Suresh Kumar
 
 
